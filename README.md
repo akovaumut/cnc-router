@@ -18,7 +18,7 @@
  - (Last updated: October 15, 2026
 
 ## Known Limitations
- - Unintended axial displacement of the X-axis ballscrew
+ - Currently None, will be added if seen after starting functionality tests.
 
 # Machine Design
 <img width="4956" height="3504" alt="Machine-Photo" src="https://github.com/user-attachments/assets/3d77f09e-fc4f-426d-8c57-f44d0fb48ad3" />
