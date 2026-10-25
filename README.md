@@ -21,4 +21,4 @@
  - Unintended axial displacement of the X-axis ballscrew
 
 # Machine Design
-<img width="4956" height="3504" alt="Router (1)" src="https://github.com/user-attachments/assets/09aa835d-730b-4f2d-908c-f317f3f8bfd8" />
+<img width="4956" height="3504" alt="Machine-Photo" src="https://github.com/user-attachments/assets/3d77f09e-fc4f-426d-8c57-f44d0fb48ad3" />
